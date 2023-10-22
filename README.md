@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I would like to state that I have reached a good level by<br>developing the technologies I use in the projects myself.<br>I have the ability to work in a team, to communicate well with all<br>my teammates, and to do research.😄⚡<br>
+Hello, I have been working in the field of web development since April 2022, starting
+as a backend developer, then expanding my scope of work at the beginning of 2023
+to become a full-stack developer. Additionally, I have gained some experience in
+WordPress website development and server hosting management.😄⚡<br>
 
 
 ## 🌐 Socials:
