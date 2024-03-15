@@ -1,10 +1,19 @@
 ### Hi there 👋
 
 # 💫 About Me:
-Hello, I have been working in the field of web development since April 2022, starting
-as a backend developer, then expanding my scope of work at the beginning of 2023
-to become a full-stack developer. Additionally, I have gained some experience in
-WordPress website development and server hosting management.😄⚡<br>
+Hey there! I've been diving into the web development scene since April 2022, and let me tell you, it's been quite the ride!
+
+Backend Developer (April 2022 - Early 2023):
+I started out as a backend developer, tinkering with servers, databases, and all that fun stuff. 
+
+Full-Stack Developer (Early 2023 - Present):
+I'm not one to stay in my comfort zone for too long. Early last year, I decided to dip my toes into full-stack development. That's where things got really interesting! From crafting sleek user interfaces to wrangling with server-side logic, I've been playing around with it all.
+
+WordPress:
+And about WordPress. I've spent some time getting cozy with it too. Customizing themes, tweaking plugins, you name it. It's like having your own toolbox to build awesome websites in no time.
+
+Server Realm:
+I've also got some skills when it comes to managing server hosting. Setting up environments..😄⚡<br>
 
 
 ## 🌐 Socials:
